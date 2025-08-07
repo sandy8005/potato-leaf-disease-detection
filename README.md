@@ -1,0 +1,2 @@
+# potato-leaf-disease-detection
+POTATO LEAF DISEASES DETECTION USING DEEP LEARNING
